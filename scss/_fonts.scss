@@ -1,0 +1,11 @@
+@mixin font-public-sans {
+  font-family: "Public Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@mixin font-ibarra-real-nova {
+  font-family: "Ibarra Real Nova", serif;
+  font-style: normal;
+  font-weight: 700;
+}
